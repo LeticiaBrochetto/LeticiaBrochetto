@@ -1,6 +1,6 @@
 # Hello World! :vulcan_salute:
 
-Olá! Sou a Leticia, uma entusiasta da tecnologia e estudante de Ciências da Computação (4/8). Estou embarcando na emocionante jornada da programação e apaixonada por tudo que a área da tecnologia tem a oferecer. 🚀
+Sou a Leticia, uma entusiasta da tecnologia e estudante de Ciências da Computação (4/8). Estou embarcando na emocionante jornada da programação e apaixonada por tudo que a área da tecnologia tem a oferecer. 🚀
 
 ## Para me encontrar:
 
