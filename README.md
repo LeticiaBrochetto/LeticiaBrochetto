@@ -4,7 +4,7 @@ Sou a Leticia, uma entusiasta da tecnologia, estagiária e estudante de Ciência
 
 ## Para me encontrar:
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leticia.brochetto?utm_source=qr&igsh=ZmdjNzU0bDFxeGlj)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leticia.brochetto/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticiaelisbrochetto/)
 <a href="mailto:brochettoleticia@hotmail.com">
 <img src="https://media.tenor.com/kXp0f-dmTXAAAAAi/%E6%94%B6%E5%88%B0-%E5%B7%A5%E4%BD%9C.gif" width="50px" />
